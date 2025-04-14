@@ -1,2 +1,2 @@
 # FirstRepo
-This is my first GutHub repository 
+This is my first Git repository 
